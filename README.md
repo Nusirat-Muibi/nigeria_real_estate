@@ -1,8 +1,8 @@
-# Nigeria Real Estate Market Analysis (Power BI)
+# Nigeria Real Estate Market Analysis (SQL & Power BI)
 
 An interactive Power BI dashboard exploring property prices, listings, locations and market patterns across Nigeria, built from 24,326 property listings.
 
-![Dashboard preview](BI%20DASHBOARD.png)
+![Dashboard preview](dashboard.png)
 
 ## Project Goal
 
@@ -75,4 +75,4 @@ Price categories: Low (under NGN 20M), Mid Range (NGN 20M and above), High (NGN 
 ## Author
 
 Nusirat | Aspiring data analyst
-GitHub: [Nushirot](https://github.com/Nushirot)
+
