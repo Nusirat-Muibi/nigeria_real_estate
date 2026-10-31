@@ -74,5 +74,5 @@ Price categories: Low (under NGN 20M), Mid Range (NGN 20M and above), High (NGN 
 
 ## Author
 
-Nusirat | Aspiring data analyst
+Nusirat | Data analyst
 
